@@ -45,13 +45,13 @@ Khalid-R2      L2   Gi0/0       10.0.20.1       UP
 
 ### Router CLI screenshots
 
-![R2 verification output](screenshots/R2-SHOW.png)
+![R2 verification output](screenshots/R2-ISIS-Topology-and-Routing.png)
 
-![R3 verification output](screenshots/R3%20-%20SHOW.png)
+![R3 verification output](screenshots/R3-ISIS-Level2-Neighbors.png)
 
-![R4 verification output](screenshots/R4%20-%20show.png)
+![R4 verification output](screenshots/R4-ISIS-Level1-Level2-Neighbors.png)
 
-![R6 verification output](screenshots/R6%20-%20sHOW.png)
+![R6 verification output](screenshots/R6-ISIS-Database-and-Neighbors.png)
 
 ## 3. Link-state database (LSDB)
 
